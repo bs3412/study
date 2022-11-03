@@ -1,9 +1,9 @@
 # Setup
-title: Project or Site name
+title: 测试
 tagline: A responsive theme for your project on GitHub Pages
 baseurl: "/docs"
 paginate: 1
-locale: "en"
+locale: "zh-cn"
 
 # About/contact
 author:
