@@ -1,14 +1,14 @@
 # Setup
-title:        Project or Site name
-tagline:      A responsive theme for your project on GitHub Pages
-baseurl:      ""
-paginate:     1
-locale:       "en"
+title: Project or Site name
+tagline: A responsive theme for your project on GitHub Pages
+baseurl: "/docs"
+paginate: 1
+locale: "en"
 
 # About/contact
 author:
-  name:       Author name
-  url:        http://yourhomepage.com 
+  name: 小凡
+  url: http://github.com/bs3412/
 
 # Gems
 gems:
